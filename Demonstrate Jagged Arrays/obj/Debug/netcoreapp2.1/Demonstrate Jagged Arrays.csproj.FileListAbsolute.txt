@@ -1,0 +1,10 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\bin\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.deps.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\bin\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.runtimeconfig.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\bin\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.runtimeconfig.dev.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\bin\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\bin\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\obj\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\obj\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\obj\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.AssemblyInfo.cs
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\obj\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Demonstrate Jagged Arrays\Demonstrate Jagged Arrays\obj\Debug\netcoreapp2.1\Demonstrate Jagged Arrays.pdb
